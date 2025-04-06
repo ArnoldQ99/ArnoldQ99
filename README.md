@@ -11,7 +11,7 @@ I solve business problems by transforming raw data into actionable insights. Ski
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
 
 ## 🚀 Featured Projects  
-- [Preppin’ Data Solutions](https://github.com/ArnoldQ99/SQL): 15+ SQL challenges completed.
+- [Preppin’ Data Solutions](https://github.com/ArnoldQ99/sql-projects/tree/main/preppin-data-challenges): 15+ SQL challenges completed.
 - [Preppin’ Data Solutions](https://github.com/ArnoldQ99/Python): 10+ Python challenges completed.  
 
 📜 **Certifications**: Dataiku, DBT, Google Analytics  
