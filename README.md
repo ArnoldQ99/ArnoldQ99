@@ -12,7 +12,7 @@ I solve business problems by transforming raw data into actionable insights. Ski
 
 ## 🚀 Featured Projects  
 - [Preppin’ Data Solutions](https://github.com/ArnoldQ99/sql-projects/tree/main/preppin-data-challenges): 15+ SQL challenges completed.
-- [Preppin’ Data Solutions](https://github.com/ArnoldQ99/Python): 10+ Python challenges completed.  
+- [Preppin’ Data Solutions](https://github.com/ArnoldQ99/python-projects/tree/main/preppin-data-challenges): 10+ Python challenges completed.  
 
 📜 **Certifications**: Dataiku, DBT, Google Analytics  
 
